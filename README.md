@@ -1,2 +1,2 @@
 # WKU-Tranding-Platform-Development
-This project is the source code and report of CPS4951 project 17.
+This is the capstone project 17 for CPS4951 in Wenzhou Kean Univeristy, 2022 Spring semester
